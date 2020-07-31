@@ -6,7 +6,6 @@
 ## Description
 As a busy student, it is easy to forget something. This simple application allows you to take a memo digitaly, so you can check your note anywhere.
 Usage is quite intuitive and very easy to use. 
-https://nobuhiromatsui.ithub.io/team-generator/.
 
 
 ## Table of contents
