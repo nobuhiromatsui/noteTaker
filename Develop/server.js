@@ -6,7 +6,7 @@ var fs = require("fs");
 var { v4: uuidv4 } = require('uuid');
 
 var app = express();
-var PORT = process.env.PORT || 3010;
+var PORT = process.env.PORT || 3000;
 
 
 // Allows to use files under Public and assets folders
