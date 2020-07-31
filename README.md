@@ -1,6 +1,6 @@
 # noteTaker
+### [LIVE SITE] https://sheltered-anchorage-84019.herokuapp.com/notes
 
-*[Deploy site] https://sheltered-anchorage-84019.herokuapp.com/notes
 
 
 ## Description
