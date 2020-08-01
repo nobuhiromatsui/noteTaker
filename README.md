@@ -26,11 +26,11 @@ NIL
 ![Image of terminal](https://github.com/nobuhiromatsui/noteTaker/blob/master/img/NoteTake2.png)
 
 
-*Click the link provided above and visit the site.
-*Click "Get started"
-*Type in "Note Title" and "Note Text". When you fill both, press the Pencil icon to save.
-*Saved notes will be shown left side.
-*If you want to delete a note, press save icon 
+  *Click the link provided above and visit the site.  
+  *Click "Get started"  
+  *Type in "Note Title" and "Note Text". When you fill both, press the Pencil icon to save.  
+  *Saved notes will be shown left side.  
+  *If you want to delete a note, press save icon  
 
 ## Test
 NIL
